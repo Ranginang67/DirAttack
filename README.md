@@ -9,7 +9,7 @@ DirAttack tools, Search file and directory on website,<br>open source tools avai
 <br />
 <br />
 
-![1](https://github.com/Ranginang67/DirAttack/blob/master/desktop/ex.gif)
+![1](https://github.com/Ranginang67/DirAttack/blob/master/desktop/ex_gif.gif)
 
 
 | options | Description                | example usage                                   |
