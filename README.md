@@ -5,7 +5,7 @@ DirAttack tools, Search file and directory on website, open source tools availab
 ![1](https://github.com/Ranginang67/DirAttack/blob/master/desktop/ex.gif)
 
 
-| options | documentation              | example usage                                   |
+| options | Description              | example usage                                   |
 |---------|----------------------------|-------------------------------------------------|
 | -u      | set your target url        | dirattack -u site.com                           |
 | -d      | use default wordlist       | dirattack -u site.com -d                        |
