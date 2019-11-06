@@ -1,8 +1,8 @@
 # DirAttack
 
 <div style="display:flex !important;align-items:center !important">
-<img align="left" width="100" height="100" style="" src="https://github.com/Ranginang67/DirAttack/blob/master/desktop/dirattack.png">
-DirAttack tools, Search file and directory on website,<br>open source tools available for Termux and Linux.<br>Easy to use!
+<img align="left" width="100" height="100" src="https://github.com/Ranginang67/DirAttack/blob/master/desktop/dirattack.png">
+<p>DirAttack tools, Search file and directory on website,<br>open source tools available for Termux and Linux.<br>Easy to use!</p>
 </div>
 
 <br />
