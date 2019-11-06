@@ -102,7 +102,7 @@ with open(data[platform]["wordlist"],"r+") as w:
     target = data["site"]+"/"+wlist
     if data["site"][len(data["site"]) -1] in ["/","//"]:
       target = data["site"]+wlist
-    print(" "+textwrap.shorten("* Scanning : %s"%target,width=int(data["width"])-5,placeholder="..."),end="\r")
+    print(" "+textwrap.shorten("* Searching : %s"%target,width=int(data["width"])-5,placeholder="..."),end="\r")
     stdout.write("\033[K")
     try:
       urllib.request.urlopen(target)
@@ -111,4 +111,4 @@ with open(data[platform]["wordlist"],"r+") as w:
     except KeyboardInterrupt:
       exit()
     else:
-      print("\033[1;32m * \033[0mFound {} {}".format(":".rjust(4),target))
+      print("\033[1;32m * \033[0mFound {} {}".format(":".rjust(3),target))
