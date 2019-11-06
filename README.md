@@ -7,7 +7,7 @@ DirAttack tools, Search file and directory in website
 
 | options | documentation              | example usage                                   |
 |---------|----------------------------|-------------------------------------------------|
-| -u      | your target url            | dirattack -u site.com                           |
+| -u      | set your target url        | dirattack -u site.com                           |
 | -d      | use default wordlist       | dirattack -u site.com -d                        |
 | -w      | use costum wordlist        | dirattack -u site.com -w /path/to/wordlist.txt  |
 | -r      | remove/uninstall dirattack | dirattack -r                                    |
