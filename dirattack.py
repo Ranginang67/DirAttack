@@ -111,4 +111,4 @@ with open(data[platform]["wordlist"],"r+") as w:
     except KeyboardInterrupt:
       exit()
     else:
-      print("\033[1;32m * \033[0mFound {} {}".format(":".rjust(3),target))
+      print("\033[1;32m * \033[0mFound {} {}".format(":".rjust(5),target))
