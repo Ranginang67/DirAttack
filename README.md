@@ -26,7 +26,7 @@ root@linux# python3 install.py
 
 Done...
 
-Press super on your keyboard and search dirattack
+Press super on your keyboard and search dirattack. or just type: 'dirattack --help'
 
 ```
 
@@ -37,6 +37,7 @@ $ git clone https://github.com/Ranginang67/DirAttack
 $ cd DirAttack
 $ chmod +x install.py
 $ python3 install.py
+$ dirattack --help
 ```
 
 
