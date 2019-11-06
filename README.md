@@ -4,6 +4,18 @@ DirAttack tools, Search file and directory in website
 
 ![1](https://github.com/Ranginang67/DirAttack/blob/master/desktop/ex.gif)
 
+
+| options | documentation              | example usage                                   |
+|---------|----------------------------|-------------------------------------------------|
+| -u      | your target url            | dirattack -u site.com                           |
+| -d      | use default wordlist       | dirattack -u site.com -d                        |
+| -w      | use costum wordlist        | dirattack -u site.com -w /path/to/wordlist.txt  |
+| -r      | remove/uninstall dirattack | dirattack -r                                    |
+
+
+# install
+
+
 **Linux**
 ```
 root@linux# apt-get install git python3 -y
