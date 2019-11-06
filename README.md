@@ -1,5 +1,5 @@
 # DirAttack
-DirAttack tools, Search file and directory in website
+DirAttack tools, Search file and directory on website, open source tools available for Termux and Linux. Easy to use!
 
 
 ![1](https://github.com/Ranginang67/DirAttack/blob/master/desktop/ex.gif)
@@ -38,3 +38,7 @@ $ cd DirAttack
 $ chmod +x install.py
 $ python3 install.py
 ```
+
+
+# support me
+<a href="https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg">
